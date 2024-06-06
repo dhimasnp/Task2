@@ -5,7 +5,8 @@ Dhimas Nurhanindya Putra
 22/505433/TK/55309
 
 Description
-This API application is used for the Good Reading Bookstore. The codes are refactored into different files for each has its own functionality. The business logic of the API is stored in the controller.js, the queries to communicate with the PostgreSQL database are stored in the queries.js, and the endpoint routes are stored in the routes.js. The db.js is used for storing the Pool connection to the PostgreSQL, in which the database credentials are saved in the .env file. The server.js serves as the entry-point of the back end.
+This API application is designed for the Good Reading Bookstore, with its codebase organized into different files based on functionality. The business logic of the API resides in controller.js, while database queries for PostgreSQL are handled in queries.js. The routes.js file defines the endpoint routes, and db.js maintains the Pool connection to the PostgreSQL database, using credentials stored in the .env file. The entry point for the backend is server.js
 
 For the full report on the API implementation, access the pdf below:
+https://drive.google.com/file/d/1Rw9XB3DNxMiff1hsZwZ3tUSj1CxjK-l7/view?usp=sharing
 
